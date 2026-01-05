@@ -1,0 +1,13 @@
+table , th , tr , td ,caption { border: 1px  solid black;
+border-radius: 2px; padding: 8px; 
+font-family: 'Courier New', Courier, monospace;border-collapse: collapse;} 
+.gold{ background-color: goldenrod; color: black; font-family: Georgia, 'Times New Roman', Times, serif;}
+.green{ background-color: green; color: aliceblue; font-family: monospace;}
+.red{ background-color: red; color: black; font-family: monospace;}
+.ordernow{ background-color: red;border: 5px ; text-decoration-color: black;  border-radius: 5px;  border-style: dotted; color: yellow}
+.order{ background-color:color-mix(in hwb longer hue, color percentage, color percentage); font: 300px;   font-size: large; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
+body{ background-color: goldenrod; stroke: red; font-size: 30px;}
+.copym{ text-align: center; font-style: italic; color: rgb(9, 9, 134);}
+.getord{ font-size: larger; font: 100px; color: brown;}
+
+.days{font-family: 'Times New Roman', Times, serif ; color: rgb(70, 70, 74);}
